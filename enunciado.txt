@@ -1,0 +1,23 @@
+Diseñar, desarrollar e implementar un api que permita consultar, almacenar, actualizar y eliminar información sobre los residuos que se encuentran en una comunidad, los datos de los residuos son: id residuo, Tipo de residuo, cantidad, peso, tipo de almacenamiento, descripción, fecha de registro (esta la crea el sistema)
+
+Tipos de almacenamiento:
+    Bolsa Plástica
+    Recipiente
+    Bolsa Biodegradable
+    Otro
+
+Tipo de residuo:
+    Orgánico
+    Inorgánico
+    Peligroso
+    Reciclable
+
+El api debe permitir:
+    - Consultar la información un residuo almacenado.
+    - Almacenar la información de un residuo
+    - Actualizar la información de un residuo
+    - Eliminar la información de un residuo
+    - Consultar todo el listado de Residuos
+    - Buscar residuos por tipo.
+
+Es posible utilizar una BD SQLite.
