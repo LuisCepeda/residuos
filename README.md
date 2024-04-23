@@ -1,1 +1,2 @@
-run /database/seed.js to create and populate a SQLite database
+The api needs a SQLite database, to create and populate run 
+node src/database/seed.js  
